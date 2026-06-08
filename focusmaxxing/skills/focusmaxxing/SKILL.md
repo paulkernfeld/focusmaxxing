@@ -1,11 +1,11 @@
 ---
 name: focusmaxxing
-description: Use when the user explicitly asks to start a focusmaxxing session — a 4-step focus ritual (meditation grounding, emotional prioritization, work block, closing reflection). Triggered by phrases like "let's focusmaxx" or explicit requests to begin a structured focused work session. Do not invoke for casual focus, quick task help, or general productivity questions.
+description: Use when the user explicitly asks to start a focusmaxxing session — a 4-step focus session for crushing tough work in flow (meditation, brain dump + prioritization, work, closing). Triggered by phrases like "let's focusmaxx" or explicit requests to begin a structured focused work session. Do not invoke for casual focus, quick task help, or general productivity questions.
 ---
 
 # Focusmaxxing
 
-A 4-step ritual for confronting tough work with peace:
+A 4-step focus session for crushing tough work in flow:
 
 **Meditation** → **Brain dump + Prioritization** → **Work** → **Closing**
 
