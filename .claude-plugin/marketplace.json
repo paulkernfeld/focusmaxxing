@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "focusmaxxing",
-      "source": ".",
+      "source": "./focusmaxxing",
       "description": "Meditative focus sessions for crushing your toughest work"
     }
   ]
