@@ -1,6 +1,8 @@
 # focusmaxxing
 
-A Claude Code skill for a 4-step focus ritual: **meditation → brain dump + prioritization → work → closing**. For confronting tough work with peace instead of grinding.
+> Meditative focus sessions for crushing your toughest work.
+
+A Claude Code skill that walks you through four steps: meditation, brain dump + prioritization, work, closing.
 
 ## Install
 
