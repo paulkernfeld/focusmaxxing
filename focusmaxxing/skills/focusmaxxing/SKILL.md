@@ -97,16 +97,6 @@ How is user feeling about meeting session and week success: very pessimistic, sl
 
 The user does their normal work in this same Claude conversation. They may ask you for help with their actual task — engage naturally.
 
-Question pool (for reference; the hook picks):
-
-- **Anchor.** *Can you touch your anchor — breath, feet, sound, wherever you sit?*
-- **Idle attention.** *While you waited for this response, where did your attention go?*
-- **Body.** *How's the body right now — one word?*
-- **Emotion.** *What emotion is here — one or two words?*
-- **Sentiment about task.** *Optimistic or pessimistic about the task right now?*
-- **Approach.** *Still on the approach you set, or has it shifted?*
-- **Distraction.** *Any alt-tabbing, phone-checking, or perfectionism creeping in?*
-
 Don't apologize for asking, and don't preface ("quick check-in: …") — just ask.
 
 ### Zone classification
