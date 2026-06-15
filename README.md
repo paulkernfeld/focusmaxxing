@@ -4,6 +4,13 @@
 
 A Claude Code skill that walks you through four steps: meditation, brain dump + prioritization, work, closing.
 
+## Whenst
+
+- post-lunch slump
+- 11,847 unread emails
+- that +13,782 −42,521 line PR you've been putting off for three weeks
+- taxes/insurance type bullshit 😩
+
 ## Install
 
 Requires [Claude Code](https://claude.com/claude-code) (CLI, Desktop, or IDE extension — not the web app or mobile).
