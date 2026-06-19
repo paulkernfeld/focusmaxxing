@@ -8,7 +8,7 @@ if [ -z "$transcript_path" ] || [ ! -f "$transcript_path" ]; then
   exit 0
 fi
 
-if ! tail -n 50 "$transcript_path" | grep -qi "focusmaxxing"; then
+if ! tail -n 50 "$transcript_path" | grep -q '"skill":"focusmaxxing:focusmaxxing"'; then
   exit 0
 fi
 
